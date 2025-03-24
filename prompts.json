@@ -1,0 +1,643 @@
+[
+  {
+    "id": 0,
+    "languages": {
+      "en": {
+        "default": "Give three tips for staying healthy.",
+        "passive": "Let three tips for staying healthy be given.",
+        "inserted": "Give, if you don't mind, three tips for staying healthy.",
+        "anaphora": "Give three tips for staying healthy. Give three tips that will help maintain good health.",
+        "ellipsis": "Three tips for staying healthy?",
+        "inversion": "Three tips for staying healthy, give."
+      },
+
+      "ru": {
+        "default": "Назови три совета для поддержания здоровья.",
+        "passive": "Три совета для поддержания здоровья должны быть названы.",
+        "inserted": "Назови, если не сложно, три совета для поддержания здоровья.",
+        "anaphora": "Назови три совета для поддержания здоровья. Назови три совета, которые помогут сохранить здоровье.",
+        "ellipsis": "Три совета для здоровья?",
+        "inversion": "Три совета для поддержания здоровья назови."
+      },
+
+      "ch": {
+        "default": "给出保持健康的三个建议。",
+        "passive": "保持健康的三个建议应该被给出。",
+        "inserted": "请给出，如果可以的话，保持健康的三个建议。",
+        "anaphora": "给出保持健康的三个建议。给出三个能够帮助保持健康的建议。",
+        "ellipsis": "保持健康的三个建议？",
+        "inversion": "保持健康的三个建议，给出。"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "languages": {
+      "en": {
+        "default": "What are the three primary colors?",
+        "passive": "What are the three primary colors considered to be?",
+        "inserted": "What, as we know, are the three primary colors?",
+        "anaphora": "What are the three primary colors? What are the three colors that are considered primary?",
+        "ellipsis": "Three primary colors?",
+        "inversion": "The three primary colors are what?"
+      },
+
+      "ru": {
+        "default": "Какие три основных цвета существуют?",
+        "passive": "Какие три основных цвета считаются существующими?",
+        "inserted": "Какие, как известно, три основных цвета существуют?",
+        "anaphora": "Какие три основных цвета существуют? Какие три цвета считаются основными?",
+        "ellipsis": "Три основных цвета?",
+        "inversion": "Существуют ли три основных цвета, какие?"
+      },
+
+      "ch": {
+        "default": "三原色是什么？",
+        "passive": "三原色被认为是哪些？",
+        "inserted": "众所周知，三原色是什么？",
+        "anaphora": "三原色是什么？三种被认为是原色的颜色是什么？",
+        "ellipsis": "三原色？",
+        "inversion": "是什么，三原色？"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "languages": {
+      "en": {
+        "default": "How can we reduce air pollution?",
+        "passive": "How can air pollution be reduced?",
+        "inserted": "How, in your opinion, can we reduce air pollution?",
+        "anaphora": "How can we reduce air pollution? How can we take steps to minimize air pollution?",
+        "ellipsis": "Reduce air pollution?",
+        "inversion": "Air pollution, how can we reduce?"
+      },
+      "ru": {
+        "default": "Как можно снизить загрязнение воздуха?",
+        "passive": "Как может быть снижено загрязнение воздуха?",
+        "inserted": "Как, по вашему мнению, можно снизить загрязнение воздуха?",
+        "anaphora": "Как можно снизить загрязнение воздуха? Как можно предпринять шаги для уменьшения загрязнения воздуха?",
+        "ellipsis": "Снизить загрязнение воздуха?",
+        "inversion": "Загрязнение воздуха снизить, как можно?"
+      },
+      "ch": {
+        "default": "我们如何减少空气污染？",
+        "passive": "空气污染如何被减少？",
+        "inserted": "依您之见，我们如何减少空气污染？",
+        "anaphora": "我们如何减少空气污染？我们如何采取措施减少空气污染？",
+        "ellipsis": "减少空气污染？",
+        "inversion": "空气污染，我们如何减少？"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "languages": {
+      "en": {
+        "default": "How did Julius Caesar die?",
+        "passive": "How was Julius Caesar killed?",
+        "inserted": "How, according to historical records, did Julius Caesar die?",
+        "anaphora": "How did Julius Caesar die? How did the famous Julius Caesar meet his end?",
+        "ellipsis": "Julius Caesar's death?",
+        "inversion": "Julius Caesar, how did he die?"
+      },
+      "ru": {
+        "default": "Как умер Юлий Цезарь?",
+        "passive": "Как был убит Юлий Цезарь?",
+        "inserted": "Как, согласно историческим данным, умер Юлий Цезарь?",
+        "anaphora": "Как умер Юлий Цезарь? Как скончался знаменитый Юлий Цезарь?",
+        "ellipsis": "Смерть Юлия Цезаря?",
+        "inversion": "Юлий Цезарь как умер?"
+      },
+      "ch": {
+        "default": "尤利乌斯·凯撒是怎么死的？",
+        "passive": "尤利乌斯·凯撒是怎么被杀的？",
+        "inserted": "根据历史记载，尤利乌斯·凯撒是怎么死的？",
+        "anaphora": "尤利乌斯·凯撒是怎么死的？尤利乌斯·凯撒是如何结束生命的？",
+        "ellipsis": "尤利乌斯·凯撒之死？",
+        "inversion": "是怎么死的，尤利乌斯·凯撒？"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "languages": {
+      "en": {
+        "default": "What is the capital of France?",
+        "passive": "What is considered to be the capital of France?",
+        "inserted": "What, if I'm not mistaken, is the capital of France?",
+        "anaphora": "What is the capital of France? What city serves as the capital of France?",
+        "ellipsis": "Capital of France?",
+        "inversion": "The capital of France is what?"
+      },
+      "ru": {
+        "default": "Какова столица Франции?",
+        "passive": "Что считается столицей Франции?",
+        "inserted": "Какова, если я не ошибаюсь, столица Франции?",
+        "anaphora": "Какова столица Франции? Какой город является столицей Франции?",
+        "ellipsis": "Столица Франции?",
+        "inversion": "Столица Франции какова?"
+      },
+      "ch": {
+        "default": "法国的首都是哪里？",
+        "passive": "法国的首都被认为是哪里？",
+        "inserted": "如果我没记错的话，法国的首都是哪里？",
+        "anaphora": "法国的首都是哪里？哪个城市是法国的首都？",
+        "ellipsis": "法国首都？",
+        "inversion": "是哪里，法国的首都？"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "languages": {
+      "en": {
+        "default": "Generate a list of ten items a person might need for a camping trip",
+        "passive": "Let a list of ten items a person might need for a camping trip be generated.",
+        "inserted": "Generate, if you would, a list of ten items a person might need for a camping trip.",
+        "anaphora": "Generate a list of ten items a person might need for a camping trip. Generate a list of ten essential items for a camping trip.",
+        "ellipsis": "Ten camping trip items?",
+        "inversion": "A list of ten items a person might need for a camping trip, generate."
+      },
+      "ru": {
+        "default": "Составь список из десяти вещей, которые могут понадобиться в походе.",
+        "passive": "Список из десяти вещей, которые могут понадобиться в походе, должен быть составлен.",
+        "inserted": "Составь, пожалуйста, список из десяти вещей, которые могут понадобиться в походе.",
+        "anaphora": "Составь список из десяти вещей, которые могут понадобиться в походе. Составь список десяти необходимых вещей для похода.",
+        "ellipsis": "Десять вещей для похода?",
+        "inversion": "Список из десяти вещей, которые могут понадобиться в походе, составь."
+      },
+      "ch": {
+        "default": "列出一个人露营时可能需要的十件物品。",
+        "passive": "一个人露营时可能需要的十件物品应该被列出。",
+        "inserted": "请列出，如果方便的话，一个人露营时可能需要的十件物品。",
+        "anaphora": "列出一个人露营时可能需要的十件物品。列出十件露营时必需的物品。",
+        "ellipsis": "露营十件物品？",
+        "inversion": "一个人露营时可能需要的十件物品，列出。"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "languages": {
+      "en": {
+        "default": "Generate three verbs that mean the same as 'to apologize'",
+        "passive": "Let three verbs that mean the same as 'to apologize' be generated.",
+        "inserted": "Generate, if possible, three verbs that mean the same as 'to apologize'.",
+        "anaphora": "Generate three verbs that mean the same as 'to apologize'. Generate three verbs synonymous with 'to apologize'.",
+        "ellipsis": "Three verbs for 'to apologize'?",
+        "inversion": "Three verbs that mean the same as 'to apologize', generate."
+      },
+      "ru": {
+        "default": "Назови три глагола, синонимичных слову 'извиняться'.",
+        "passive": "Три глагола, синонимичных слову 'извиняться', должны быть названы.",
+        "inserted": "Назови, если возможно, три глагола, синонимичных слову 'извиняться'.",
+        "anaphora": "Назови три глагола, синонимичных слову 'извиняться'. Назови три глагола, имеющих значение 'извиняться'.",
+        "ellipsis": "Три глагола вместо 'извиняться'?",
+        "inversion": "Три глагола, синонимичных слову 'извиняться', назови."
+      },
+      "ch": {
+        "default": "生成三个与“道歉”意思相同的动词。",
+        "passive": "三个与“道歉”意思相同的动词应该被生成。",
+        "inserted": "如果可以的话，生成三个与“道歉”意思相同的动词。",
+        "anaphora": "生成三个与“道歉”意思相同的动词。生成三个意思相近的“道歉”动词。",
+        "ellipsis": "“道歉”的三个动词？",
+        "inversion": "三个与“道歉”意思相同的动词，生成。"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "languages": {
+      "en": {
+        "default": "What does DNA stand for?",
+        "passive": "What is meant by DNA?",
+        "inserted": "What, if you don't mind, does DNA stand for?",
+        "anaphora": "What does DNA stand for? What is the full form of DNA?",
+        "ellipsis": "DNA abbreviation?",
+        "inversion": "DNA stands for what?"
+      },
+      "ru": {
+        "default": "Что означает аббревиатура ДНК?",
+        "passive": "Что подразумевается под аббревиатурой ДНК?",
+        "inserted": "Что, если не секрет, означает аббревиатура ДНК?",
+        "anaphora": "Что означает аббревиатура ДНК? Как расшифровывается аббревиатура ДНК?",
+        "ellipsis": "Аббревиатура ДНК?",
+        "inversion": "Аббревиатура ДНК что означает?"
+      },
+      "ch": {
+        "default": "DNA代表什么？",
+        "passive": "DNA被代表什么？",
+        "inserted": "请问，DNA代表什么？",
+        "anaphora": "DNA代表什么？DNA的全称是什么？",
+        "ellipsis": "DNA缩写？",
+        "inversion": "什么，DNA代表？"
+      }
+    },
+    {
+    "id": 7,
+    "languages": {
+      "en": {
+        "default": "What does DNA stand for?",
+        "passive": "What is meant by DNA?",
+        "inserted": "What, if you don't mind, does DNA stand for?",
+        "anaphora": "What does DNA stand for? What is the full form of DNA?",
+        "ellipsis": "DNA abbreviation?",
+        "inversion": "DNA stands for what?"
+      },
+      "ru": {
+        "default": "Что означает аббревиатура ДНК?",
+        "passive": "Что подразумевается под аббревиатурой ДНК?",
+        "inserted": "Что, если не секрет, означает аббревиатура ДНК?",
+        "anaphora": "Что означает аббревиатура ДНК? Как расшифровывается аббревиатура ДНК?",
+        "ellipsis": "Аббревиатура ДНК?",
+        "inversion": "Аббревиатура ДНК что означает?"
+      },
+      "ch": {
+        "default": "DNA代表什么？",
+        "passive": "DNA被代表什么？",
+        "inserted": "请问，DNA代表什么？",
+        "anaphora": "DNA代表什么？DNA的全称是什么？",
+        "ellipsis": "DNA缩写？",
+        "inversion": "什么，DNA代表？"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "languages": {
+      "en": {
+        "default": "What does DNA stand for?",
+        "passive": "What is meant by DNA?",
+        "inserted": "What, if you don't mind, does DNA stand for?",
+        "anaphora": "What does DNA stand for? What is the full form of DNA?",
+        "ellipsis": "DNA abbreviation?",
+        "inversion": "DNA stands for what?"
+      },
+      "ru": {
+        "default": "Что означает аббревиатура ДНК?",
+        "passive": "Что подразумевается под аббревиатурой ДНК?",
+        "inserted": "Что, если не секрет, означает аббревиатура ДНК?",
+        "anaphora": "Что означает аббревиатура ДНК? Как расшифровывается аббревиатура ДНК?",
+        "ellipsis": "Аббревиатура ДНК?",
+        "inversion": "Аббревиатура ДНК что означает?"
+      },
+      "ch": {
+        "default": "DNA代表什么？",
+        "passive": "DNA被代表什么？",
+        "inserted": "请问，DNA代表什么？",
+        "anaphora": "DNA代表什么？DNA的全称是什么？",
+        "ellipsis": "DNA缩写？",
+        "inversion": "什么，DNA代表？"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "languages": {
+      "en": {
+        "default": "Generate a list of random words.",
+        "passive": "Let a list of random words be generated.",
+        "inserted": "Generate, if you please, a list of random words.",
+        "anaphora": "Generate a list of random words. Generate a collection of random words.",
+        "ellipsis": "Random words list?",
+        "inversion": "A list of random words, generate."
+      },
+      "ru": {
+        "default": "Сгенерируй список случайных слов.",
+        "passive": "Список случайных слов должен быть сгенерирован.",
+        "inserted": "Сгенерируй, пожалуйста, список случайных слов.",
+        "anaphora": "Сгенерируй список случайных слов. Сгенерируй подборку случайных слов.",
+        "ellipsis": "Список случайных слов?",
+        "inversion": "Список случайных слов сгенерируй."
+      },
+      "ch": {
+        "default": "生成一个随机单词列表。",
+        "passive": "一个随机单词列表应该被生成。",
+        "inserted": "请生成一个随机单词列表。",
+        "anaphora": "生成一个随机单词列表。生成一个随机单词的集合。",
+        "ellipsis": "随机单词列表？",
+        "inversion": "一个随机单词列表，生成。"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "languages": {
+      "en": {
+        "default": "Who is the world's most famous painter?",
+        "passive": "Who is considered to be the world's most famous painter?",
+        "inserted": "Who, in your opinion, is the world's most famous painter?",
+        "anaphora": "Who is the world's most famous painter? Who is the painter most widely recognized in the world?",
+        "ellipsis": "World's most famous painter?",
+        "inversion": "The world's most famous painter is who?"
+      },
+      "ru": {
+        "default": "Кто самый известный художник в мире?",
+        "passive": "Кем считается самый известный художник в мире?",
+        "inserted": "Кто, по вашему мнению, самый известный художник в мире?",
+        "anaphora": "Кто самый известный художник в мире? Кто является самым узнаваемым художником в мире?",
+        "ellipsis": "Самый известный художник?",
+        "inversion": "Самый известный художник в мире кто?"
+      },
+      "ch": {
+        "default": "世界上最著名的画家是谁？",
+        "passive": "世界上最著名的画家被认为是誰？",
+        "inserted": "依您看，世界上最著名的画家是谁？",
+        "anaphora": "世界上最著名的画家是谁？世界上最广为人知的画家是谁？",
+        "ellipsis": "最著名画家？",
+        "inversion": "是谁，世界上最著名的画家？"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "languages": {
+      "en": {
+        "default": "Look up the boiling point of water.",
+        "passive": "Let the boiling point of water be looked up.",
+        "inserted": "Look up, if you would, the boiling point of water.",
+        "anaphora": "Look up the boiling point of water. Look up the temperature at which water boils.",
+        "ellipsis": "Water's boiling point?",
+        "inversion": "The boiling point of water, look up."
+      },
+      "ru": {
+        "default": "Укажи температуру кипения воды.",
+        "passive": "Температура кипения воды должна быть указана.",
+        "inserted": "Укажи, пожалуйста, температуру кипения воды.",
+        "anaphora": "Укажи температуру кипения воды. Укажи, при какой температуре закипает вода.",
+        "ellipsis": "Температура кипения воды?",
+        "inversion": "Температуру кипения воды укажи."
+      },
+      "ch": {
+        "default": "查找水的沸点。",
+        "passive": "水的沸点应该被查找。",
+        "inserted": "请查找水的沸点。",
+        "anaphora": "查找水的沸点。查找水达到沸腾的温度。",
+        "ellipsis": "水的沸点？",
+        "inversion": "水的沸点，查找。"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "languages": {
+      "en": {
+        "default": "Explain the concept of artificial intelligence in simple terms.",
+        "passive": "Let the concept of artificial intelligence be explained in simple terms.",
+        "inserted": "Explain, if possible, the concept of artificial intelligence in simple terms.",
+        "anaphora": "Explain the concept of artificial intelligence in simple terms. Explain artificial intelligence in a way that is easy to understand.",
+        "ellipsis": "Artificial intelligence explained simply?",
+        "inversion": "The concept of artificial intelligence in simple terms, explain."
+      },
+      "ru": {
+        "default": "Объясни концепцию искусственного интеллекта простыми словами.",
+        "passive": "Концепция искусственного интеллекта должна быть объяснена простыми словами.",
+        "inserted": "Объясни, если возможно, концепцию искусственного интеллекта простыми словами.",
+        "anaphora": "Объясни концепцию искусственного интеллекта простыми словами. Объясни искусственный интеллект так, чтобы было понятно.",
+        "ellipsis": "ИИ простыми словами?",
+        "inversion": "Концепцию искусственного интеллекта простыми словами объясни."
+      },
+      "ch": {
+        "default": "用简单的术语解释人工智能的概念。",
+        "passive": "人工智能的概念应该用简单的术语被解释。",
+        "inserted": "如果可以的话，用简单的术语解释人工智能的概念。",
+        "anaphora": "用简单的术语解释人工智能的概念。用易于理解的方式解释人工智能。",
+        "ellipsis": "简单解释人工智能？",
+        "inversion": "人工智能的概念，用简单的术语解释。"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "languages": {
+      "en": {
+        "default": "Generate a poem with 10 lines.",
+        "passive": "Let a poem with 10 lines be generated.",
+        "inserted": "Generate, if you please, a poem with 10 lines.",
+        "anaphora": "Generate a poem with 10 lines. Generate a poem consisting of exactly 10 lines.",
+        "ellipsis": "10-line poem?",
+        "inversion": "A poem with 10 lines, generate."
+      },
+      "ru": {
+        "default": "Напиши стихотворение из 10 строк.",
+        "passive": "Стихотворение из 10 строк должно быть написано.",
+        "inserted": "Напиши, пожалуйста, стихотворение из 10 строк.",
+        "anaphora": "Напиши стихотворение из 10 строк. Напиши стихотворение, состоящее ровно из 10 строк.",
+        "ellipsis": "Стихотворение из 10 строк?",
+        "inversion": "Стихотворение из 10 строк напиши."
+      },
+      "ch": {
+        "default": "创作一首10行的诗。",
+        "passive": "一首10行的诗应该被创作。",
+        "inserted": "请创作一首10行的诗。",
+        "anaphora": "创作一首10行的诗。创作一首由10行组成的诗歌。",
+        "ellipsis": "十行诗？",
+        "inversion": "一首10行的诗，创作。"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "languages": {
+      "en": {
+        "default": "Calculate the total surface area of a cube with a side length of 5 cm.",
+        "passive": "Let the total surface area of a cube with a side length of 5 cm be calculated.",
+        "inserted": "Calculate, if possible, the total surface area of a cube with a side length of 5 cm.",
+        "anaphora": "Calculate the total surface area of a cube with a side length of 5 cm. Calculate the total area of all six faces of a cube with a 5 cm side.",
+        "ellipsis": "Surface area of 5cm cube?",
+        "inversion": "The total surface area of a cube with a side length of 5 cm, calculate."
+      },
+      "ru": {
+        "default": "Рассчитай общую площадь поверхности куба с длиной стороны 5 см.",
+        "passive": "Общая площадь поверхности куба с длиной стороны 5 см должна быть рассчитана.",
+        "inserted": "Рассчитай, если возможно, общую площадь поверхности куба с длиной стороны 5 см.",
+        "anaphora": "Рассчитай общую площадь поверхности куба с длиной стороны 5 см. Рассчитай площадь всех шести граней куба со стороной 5 см.",
+        "ellipsis": "Площадь куба 5 см?",
+        "inversion": "Общую площадь поверхности куба с длиной стороны 5 см рассчитай."
+      },
+      "ch": {
+        "default": "计算边长为5厘米的立方体的总表面积。",
+        "passive": "边长为5厘米的立方体的总表面积应该被计算。",
+        "inserted": "如果可以的话，计算边长为5厘米的立方体的总表面积。",
+        "anaphora": "计算边长为5厘米的立方体的总表面积。计算边长为5厘米的立方体所有六个面的总面积。",
+        "ellipsis": "5厘米立方体表面积？",
+        "inversion": "边长为5厘米的立方体的总表面积，计算。"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "languages": {
+      "en": {
+        "default": "What is the force on a 1 kg mass due to the gravitational force?",
+        "passive": "What force is exerted on a 1 kg mass by the gravitational force?",
+        "inserted": "What, in your opinion, is the force on a 1 kg mass due to the gravitational force?",
+        "anaphora": "What is the force on a 1 kg mass due to the gravitational force? What is the weight of a 1 kg mass due to gravity?",
+        "ellipsis": "Gravitational force on 1kg?",
+        "inversion": "The force on a 1 kg mass due to the gravitational force is what?"
+      },
+      "ru": {
+        "default": "Чему равна сила гравитации, действующая на тело массой 1 кг?",
+        "passive": "Какова сила, оказываемая гравитацией на тело массой 1 кг?",
+        "inserted": "Чему, по вашему мнению, равна сила гравитации, действующая на тело массой 1 кг?",
+        "anaphora": "Чему равна сила гравитации, действующая на тело массой 1 кг? Каков вес тела массой 1 кг под действием гравитации?",
+        "ellipsis": "Гравитация на 1 кг?",
+        "inversion": "Сила гравитации, действующая на тело массой 1 кг, чему равна?"
+      },
+      "ch": {
+        "default": "1千克质量的物体所受的重力是多少？",
+        "passive": "1千克质量的物体被重力所施加的力是多少？",
+        "inserted": "依您看，1千克质量的物体所受的重力是多少？",
+        "anaphora": "1千克质量的物体所受的重力是多少？1千克质量的物体在重力作用下的重量是多少？",
+        "ellipsis": "1千克物体的重力？",
+        "inversion": "是多少，1千克质量的物体所受的重力？"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "languages": {
+      "en": {
+        "default": "Give two examples of a liquid.",
+        "passive": "Let two examples of a liquid be given.",
+        "inserted": "Give, if you would, two examples of a liquid.",
+        "anaphora": "Give two examples of a liquid. Give two substances that exist in a liquid state.",
+        "ellipsis": "Two liquid examples?",
+        "inversion": "Two examples of a liquid, give."
+      },
+      "ru": {
+        "default": "Назови два примера жидкости.",
+        "passive": "Два примера жидкости должны быть названы.",
+        "inserted": "Назови, пожалуйста, два примера жидкости.",
+        "anaphora": "Назови два примера жидкости. Назови два вещества, находящихся в жидком состоянии.",
+        "ellipsis": "Два примера жидкости?",
+        "inversion": "Два примера жидкости назови."
+      },
+      "ch": {
+        "default": "给出液体的两个例子。",
+        "passive": "液体的两个例子应该被给出。",
+        "inserted": "请给出液体的两个例子。",
+        "anaphora": "给出液体的两个例子。给出两种处于液态的物质。",
+        "ellipsis": "液体的两个例子？",
+        "inversion": "液体的两个例子，给出。"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "languages": {
+      "en": {
+        "default": "What is the product of 6 and 2?",
+        "passive": "What result is obtained when 6 is multiplied by 2?",
+        "inserted": "What, if you don't mind, is the product of 6 and 2?",
+        "anaphora": "What is the product of 6 and 2? What do you get when you multiply 6 by 2?",
+        "ellipsis": "6 multiplied by 2?",
+        "inversion": "The product of 6 and 2 is what?"
+      },
+      "ru": {
+        "default": "Чему равно произведение 6 и 2?",
+        "passive": "Каков результат, когда 6 умножается на 2?",
+        "inserted": "Чему, если не сложно, равно произведение 6 и 2?",
+        "anaphora": "Чему равно произведение 6 и 2? Какой результат получится, если умножить 6 на 2?",
+        "ellipsis": "6 умножить на 2?",
+        "inversion": "Произведение 6 и 2 чему равно?"
+      },
+      "ch": {
+        "default": "6乘以2等于多少？",
+        "passive": "6乘以2的结果是多少？",
+        "inserted": "请问，6乘以2等于多少？",
+        "anaphora": "6乘以2等于多少？6和2相乘的结果是多少？",
+        "ellipsis": "6乘2？",
+        "inversion": "等于多少，6乘以2？"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "languages": {
+      "en": {
+        "default": "Construct a list of tips to help reduce stress.",
+        "passive": "Let a list of tips to help reduce stress be constructed.",
+        "inserted": "Construct, if you would, a list of tips to help reduce stress.",
+        "anaphora": "Construct a list of tips to help reduce stress. Construct a set of helpful suggestions for managing stress.",
+        "ellipsis": "Stress reduction tips?",
+        "inversion": "A list of tips to help reduce stress, construct."
+      },
+      "ru": {
+        "default": "Составь список советов для снижения стресса.",
+        "passive": "Список советов для снижения стресса должен быть составлен.",
+        "inserted": "Составь, пожалуйста, список советов для снижения стресса.",
+        "anaphora": "Составь список советов для снижения стресса. Составь перечень полезных рекомендаций по снижению стресса.",
+        "ellipsis": "Советы против стресса?",
+        "inversion": "Список советов для снижения стресса составь."
+      },
+      "ch": {
+        "default": "列出帮助减轻压力的建议。",
+        "passive": "帮助减轻压力的建议应该被列出。",
+        "inserted": "请列出帮助减轻压力的建议。",
+        "anaphora": "列出帮助减轻压力的建议。列出一组有助于减轻压力的建议。",
+        "ellipsis": "减压建议？",
+        "inversion": "帮助减轻压力的建议，列出。"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "languages": {
+      "en": {
+        "default": "Compare cats and dogs.",
+        "passive": "Let cats and dogs be compared.",
+        "inserted": "Compare, if you would, cats and dogs.",
+        "anaphora": "Compare cats and dogs. Compare these two popular pets: cats and dogs.",
+        "ellipsis": "Cats vs dogs?",
+        "inversion": "Cats and dogs, compare."
+      },
+      "ru": {
+        "default": "Сравни кошек и собак.",
+        "passive": "Кошки и собаки должны быть сравнены.",
+        "inserted": "Сравни, пожалуйста, кошек и собак.",
+        "anaphora": "Сравни кошек и собак. Сравни этих двух популярных домашних животных: кошек и собак.",
+        "ellipsis": "Кошки и собаки?",
+        "inversion": "Кошек и собак сравни."
+      },
+      "ch": {
+        "default": "比较猫和狗。",
+        "passive": "猫和狗应该被比较。",
+        "inserted": "请比较猫和狗。",
+        "anaphora": "比较猫和狗。比较这两种常见的宠物：猫和狗。",
+        "ellipsis": "猫和狗？",
+        "inversion": "猫和狗，比较。"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "languages": {
+      "en": {
+        "default": "Write a short review for the novel 'Master and Margarita'.",
+        "passive": "Let a short review for the novel 'Master and Margarita' be written.",
+        "inserted": "Write, if you would, a short review for the novel 'Master and Margarita'.",
+        "anaphora": "Write a short review for the novel 'Master and Margarita'. Write a brief critique of 'Master and Margarita'.",
+        "ellipsis": "'Master and Margarita' review?",
+        "inversion": "A short review for the novel 'Master and Margarita', write."
+      },
+      "ru": {
+        "default": "Напиши краткую рецензию на роман 'Мастер и Маргарита'.",
+        "passive": "Краткая рецензия на роман 'Мастер и Маргарита' должна быть написана.",
+        "inserted": "Напиши, пожалуйста, краткую рецензию на роман Мастер и 'Маргарита'.",
+        "anaphora": "Напиши краткую рецензию на роман 'Мастер и Маргарита'. Напиши краткий анализ романа 'Мастер и Маргарита'.",
+        "ellipsis": "Рецензия на 'Мастера и Маргариту'?",
+        "inversion": "Краткую рецензию на роман 'Мастер и Маргарита' напиши."
+      },
+      "ch": {
+        "default": "为小说《大师与玛格丽特》写一篇简短的书评。",
+        "passive": "小说《大师与玛格丽特》的一篇简短的书评应该被写。",
+        "inserted": "请为小说《大师与玛格丽特》写一篇简短的书评。",
+        "anaphora": "为小说《大师与玛格丽特》写一篇简短的书评。为《大师与玛格丽特》写一篇简要的评论。",
+        "ellipsis": "《大师与玛格丽特》书评？",
+        "inversion": "一篇简短的书评，为小说《大师与玛格丽特》写。"
+      }
+    }
+  }
+]
